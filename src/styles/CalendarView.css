@@ -1,0 +1,32 @@
+.calendar-view-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter-section label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .chart-section {
+    text-align: center;
+  }
+  
+  .chart-placeholder {
+    color: #777;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .fc-daygrid-day {
+    cursor: pointer;
+  }
+  
+  .fc-daygrid-day:hover {
+    background-color: #f0f0f0; /* Optional: hover effect */
+  }
